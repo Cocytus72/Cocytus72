@@ -24,9 +24,8 @@ Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster
 -->
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://es.linkedin.com/in/lucas-gallego-bravo)
-- 📧 [Email](lucas722001@gmail.com)
--->
+- 💼 [LinkedIn](https://es.linkedin.com/in/lucas-gallego-bravo-0a6a47238)
+- 📧 Email --> lucas722001@gmail.com
 
 <!--
 **Cocytus72/Cocytus72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
