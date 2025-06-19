@@ -15,7 +15,7 @@ Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster
 ![Sklearn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-<!-- Puedes agregar más según lo que uses -->
+<!-- agregar más según lo que use -->
 
 <pre>
 <strong>Python</strong>         🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ 90%
