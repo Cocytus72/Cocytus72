@@ -16,9 +16,10 @@ Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![Sklearn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 <!-- Puedes agregar más según lo que uses -->
 
-<pre> ``` **Python** ▓▓▓▓▓▓▓▓▓░░ 90% **Git** ▓▓▓▓▓▓▓▓░░░ 80% **C** ▓▓▓▓▓▓▓▓░░░ 80% **C++** ▓▓▓▓▓▓▓░░░░ 70% **Jupyter** ▓▓▓▓▓▓▓░░░░ 70% **Tensorflow** ▓▓▓▓▓▓▓░░░░ 70% **Sklearn** ▓▓▓▓▓▓▓░░░░ 70% **JavaScript** ▓▓▓▓▓▓░░░░░ 60% **Docker** ▓▓▓▓▓▓░░░░░ 60% **Node.js** ▓▓▓▓▓░░░░░░ 50% **GCP** ▓▓▓▓▓░░░░░░ 50% ``` </pre>
+<pre> ``` **Python** ▓▓▓▓▓▓▓▓▓░░ 90% **Git** ▓▓▓▓▓▓▓▓░░░ 80% **Linux** ▓▓▓▓▓▓▓▓░░░ 80% **C** ▓▓▓▓▓▓▓▓░░░ 80% **C++** ▓▓▓▓▓▓▓░░░░ 70% **Jupyter** ▓▓▓▓▓▓▓░░░░ 70% **Tensorflow** ▓▓▓▓▓▓▓░░░░ 70% **Sklearn** ▓▓▓▓▓▓▓░░░░ 70% **JavaScript** ▓▓▓▓▓▓░░░░░ 60% **Docker** ▓▓▓▓▓▓░░░░░ 60% **Node.js** ▓▓▓▓▓░░░░░░ 50% **GCP** ▓▓▓▓▓░░░░░░ 50% ``` </pre>
 
 
 ## 🛠 Repositorios Destacados
