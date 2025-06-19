@@ -6,23 +6,26 @@ Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster
 ## 🚀 Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-React-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Sklearn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 <!-- Puedes agregar más según lo que uses -->
 
 <!--
 ## 🛠 Proyectos Destacados
 - 🔗 [MiPortfolio](https://github.com/juan-dev/portfolio): Sitio web personal hecho con React y Tailwind.
 - 📊 [Dashboard](https://github.com/juan-dev/dashboard-analytics): Panel de estadísticas usando MongoDB y Express.
+-->
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://linkedin.com/in/juan-dev)
-- 📧 juan@example.com
+- 💼 [LinkedIn](https://es.linkedin.com/in/lucas-gallego-bravo)
+- 📧 [Email](lucas722001@gmail.com)
 -->
 
 <!--
