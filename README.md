@@ -32,10 +32,11 @@ Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster
 <strong>GCP</strong>            🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ 50%
 </pre>
 
-
+<!--
 ## 📊 Estadísticas de GitHub
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=Cocytus72&show_icons=true&theme=tokyonight)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocytus72&layout=compact)
+-->
 
 ## 🛠 Repositorios Destacados
 <!--
