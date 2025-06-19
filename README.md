@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 ¡Hola! Soy Lucas
 Graduado en Ingeniería Informática Biligüe en la UC3M. Estudiante del Máster en Ingeniería Informática en la UC3M y estudiante del Máster en Ingerniería del MotorSport en MotorLand Aragón, Campues SEAS y la Universidad San Jorge.
 
